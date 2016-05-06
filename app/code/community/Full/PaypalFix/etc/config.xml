@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <modules>
+        <Full_PaypalFix>
+            <version>0.0.1</version>			
+        </Full_PaypalFix>
+    </modules>
+
+    <global>     
+        <models>		
+            <paypal>
+                <rewrite>
+                    <hostedpro_request>Full_PaypalFix_Model_Hostedpro_Request</hostedpro_request>
+                </rewrite>
+            </paypal>		
+        </models>
+    </global>
+
+</config>

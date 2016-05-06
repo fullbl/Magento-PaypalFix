@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Full_Paypalfix>
+            <active>false</active>
+            <codePool>community</codePool>
+        </Full_Paypalfix>       
+    </modules>
+</config>
