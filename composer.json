@@ -1,0 +1,18 @@
+{
+    "name": "fullbl/magento-paypalfix",
+    "description": "This package fixes a problem with HostedPro Paypal module for magento where total is not correct when using coupons",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors": [
+				{
+					"name": "fullbl",
+				},
+        {i
+            "name": "alex",
+            "email": "alex@hevelop.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
